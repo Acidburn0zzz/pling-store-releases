@@ -23,7 +23,7 @@
     "request": "2.*.*"
   },
   "devDependencies": {
-    "electron": "4.*.*",
+    "electron": "9.*.*",
     "electron-packager": "13.*.*"
   }
 }
